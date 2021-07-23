@@ -1,11 +1,11 @@
-# Как развернуть проект:
+# Как развернуть приложение:
 + git clone https://github.com/Wenfort/form_templates.git
 + cd form_templates
 + создать виртуальное окружение, активировать его
 + pip install -r requirements.txt
 + flask run
 
-# Как протестировать проект:
+# Как протестировать приложение:
 + cd form_templates
 + запустите flask в фоновом режиме (flask run &)
 + запустите tests.py
